@@ -1,0 +1,10 @@
+{
+  "usage": "Illustrative automotive photography. These images are not represented as photographs of this business or its completed work.",
+  "hero.webp": { "license": "https://unsplash.com/license", "asset": "https://images.unsplash.com/photo-1503376780353-7e6692767b70" },
+  "hero-mobile.webp": { "asset": "hero.webp, smaller responsive variant" },
+  "wash.webp": { "source": "https://www.pexels.com/photo/a-woman-cleaning-a-car-6873081/", "author": "Tima Miroshnichenko", "license": "https://www.pexels.com/license/" },
+  "polish.webp": { "source": "https://www.pexels.com/photo/a-person-buffing-a-car-11139244/", "author": "Hasan Gulec", "license": "https://www.pexels.com/license/" },
+  "detail.webp": { "source": "https://www.pexels.com/photo/car-covered-in-foam-in-a-car-wash-5693659/", "author": "Jarne Aerts", "license": "https://www.pexels.com/license/" },
+  "interior.webp": { "source": "https://www.pexels.com/photo/a-man-cleaning-the-interior-parts-of-the-car-6873103/", "author": "Tima Miroshnichenko", "license": "https://www.pexels.com/license/" },
+  "tires.webp": { "source": "https://www.pexels.com/photo/mechanic-holding-a-car-tire-6870311/", "author": "Gustavo Fring", "license": "https://www.pexels.com/license/" }
+}
